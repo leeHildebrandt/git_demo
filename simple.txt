@@ -1,0 +1,8 @@
+mkdir git_demo
+cd git_demo
+git pull origin master
+git status
+git add .
+git status
+git commit -m "Modified demo_index.html"
+git pull origin master
